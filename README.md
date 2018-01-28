@@ -5,4 +5,5 @@ INFO: In each folder are source code files and one pdf document with described t
 
 Exercises in PDF files are in PL language.
 
+WARNING - In Part4 exercise no. 3 isn't complete.
 WARNING - In Part5 are done only 2 tasks.
