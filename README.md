@@ -4,3 +4,5 @@
 INFO: In each folder are source code files and one pdf document with described tasks which had to be realised in programs.
 
 Exercises in PDF files are in PL language.
+
+WARNING - In Part5 are done only 2 tasks.
